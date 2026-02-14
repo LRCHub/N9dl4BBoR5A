@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カクテルでゆく宇宙",
+  "base_artist": "くしゃみ。。",
+  "createdAt": "2026-02-14T12:23:25.356832Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カクテルでゆく宇宙",
+      "artist": "くしゃみ。。",
+      "has_synced": false,
+      "path": "select/pl_01_カクテルでゆく宇宙_くしゃみ。。.txt"
+    }
+  ]
+}
